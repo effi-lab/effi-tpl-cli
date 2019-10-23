@@ -1,3 +1,3 @@
-# What is Effi?
+# What is this?
 
-just a development tool for personal usage
+nodejs command line tool startkit of effi.
